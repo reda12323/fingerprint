@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-fingerprint-sim/static/css/main.e6c13ad2.css",
-    "main.js": "/react-fingerprint-sim/static/js/main.08b8b3f7.js",
-    "static/js/453.3a2da498.chunk.js": "/react-fingerprint-sim/static/js/453.3a2da498.chunk.js",
-    "index.html": "/react-fingerprint-sim/index.html",
-    "main.e6c13ad2.css.map": "/react-fingerprint-sim/static/css/main.e6c13ad2.css.map",
-    "main.08b8b3f7.js.map": "/react-fingerprint-sim/static/js/main.08b8b3f7.js.map",
-    "453.3a2da498.chunk.js.map": "/react-fingerprint-sim/static/js/453.3a2da498.chunk.js.map"
+    "main.css": "/reda12323/fingerprint/static/css/main.e6c13ad2.css",
+    "main.js": "/reda12323/fingerprint/static/js/main.c88c3de5.js",
+    "static/js/453.3a2da498.chunk.js": "/reda12323/fingerprint/static/js/453.3a2da498.chunk.js",
+    "index.html": "/reda12323/fingerprint/index.html",
+    "main.e6c13ad2.css.map": "/reda12323/fingerprint/static/css/main.e6c13ad2.css.map",
+    "main.c88c3de5.js.map": "/reda12323/fingerprint/static/js/main.c88c3de5.js.map",
+    "453.3a2da498.chunk.js.map": "/reda12323/fingerprint/static/js/453.3a2da498.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08b8b3f7.js"
+    "static/js/main.c88c3de5.js"
   ]
 }
